@@ -1,7 +1,5 @@
 # Java Conversor de Moneda
 
-![Java](https://img.shields.io/badge/Java-✓-orange) ![GitHub](https://img.shields.io/github/license/tu-usuario/ONEBACKEND)
-
 ## Descripción
 
 Este proyecto es un **Conversor de Moneda** desarrollado en Java que utiliza la **API Exchange Rate** para obtener tasas de cambio actualizadasy forma parte del **challenge de Alura Latam** dentro del curso de **ONE**.
